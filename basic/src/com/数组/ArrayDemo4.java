@@ -35,6 +35,6 @@ public class ArrayDemo4 {
         }
 
         System.out.println(nums3[1]);
-
+        System.out.println("test git");
     }
 }
