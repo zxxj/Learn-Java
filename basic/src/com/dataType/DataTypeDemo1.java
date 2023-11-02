@@ -1,4 +1,4 @@
-package com.数据类型;
+package com.dataType;
 
 public class DataTypeDemo1 {
     public static void main(String[] args) {

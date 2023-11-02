@@ -1,4 +1,4 @@
-package com.数组;
+package com.array;
 
 public class ArrayDemo3 {
     public static void main(String[] args) {

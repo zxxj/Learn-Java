@@ -1,4 +1,4 @@
-package com.数组;
+package com.array;
 
 import java.util.Random;
 

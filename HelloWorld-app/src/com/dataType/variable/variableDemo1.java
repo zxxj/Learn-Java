@@ -1,4 +1,4 @@
-package com.数据类型.variable;
+package com.dataType.variable;
 
 public class variableDemo1 {
     public static void main(String[] args) {

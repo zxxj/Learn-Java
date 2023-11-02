@@ -1,4 +1,4 @@
-package com.数据类型.LiteralQuantity;
+package com.dataType.LiteralQuantity;
 
 public class LiteralQuantityDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.数据类型.notes;
+package com.dataType.notes;
 
 public class note {
     public static void main(String[] args) {
